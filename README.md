@@ -12,9 +12,13 @@ Desenvolvedor de Sistemas WEB nas linguagens PHP e JAVA
 ## Apresentação
 
 > Profissional com mais de 10 anos trabalhando com TI na área de programação.
+
 > Sou graduado como Bacharel em Sistemas de Informação, possuo duas pós graduações: uma em Desenvolvimento de Sistemas para WEB pela Faculdade Anhanguera e outra em Banco de Dados pela Faculdade Unyleya.
+
 > Trabalhei 8 anos como Oficial Técnico Temporário, OTT, no Exército na função de programador PHP e Java no apoio nos sistemas de Pessoal da instituição.
+
 > Além de conhecimento nas linguagens de programação PHP e Java, possuo certificação: Java Certified Foundations Associate, ITIL® Foundation, PRINCE2 Agile® Foundation, DevOps Essentials Professional e Scrum Fundamentals
+
 ### Conecte-se comigo 🟢
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-bernardo-de-castro-ab687069/) 
